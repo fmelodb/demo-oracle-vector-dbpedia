@@ -1,0 +1,1 @@
+uv run dbpedia.py --threads 16 --query-file query_vectors_100.csv
