@@ -1,0 +1,13 @@
+[project]
+name = "demo-oracle-vector-dbpedia"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "argparse>=1.4.0",
+    "dotenv>=0.9.9",
+    "numpy>=2.3.5",
+    "oracledb>=3.4.1",
+    "pandas>=2.3.3",
+]
